@@ -1,0 +1,12 @@
+/*navbar css*/
+#headr{
+    width:100%;
+    background-color:black;
+    padding:0px 80px 0px 100px;
+}
+.login_form{
+    margin: 10px auto ;
+    padding: 40px;
+    border: solid 1px black;
+    width: 55%;
+}

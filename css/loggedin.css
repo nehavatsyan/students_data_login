@@ -1,0 +1,28 @@
+/*navbar css*/
+#headr{
+    width:100%;
+    background-color:black;
+    padding:0px 100px 0px 100px;
+}
+.sidenav {
+    height: 100%;
+    width: 400px;
+    position: fixed;
+    background-color: #111;
+    overflow-x: hidden;
+    padding: 20px;
+    padding-top: 60px;
+    color:#d6d6c2;
+    LINE-HEIGHT: 25px;
+    z-index: 1; /* Stay on top */
+    top: 50px; /* Stay at the top */
+    left: 0;
+    
+}
+.main{
+    width: 1000px;
+    margin-left: 450px;
+    border: solid 1px black;
+    padding: 20px;
+    margin-top: 20px;
+}
